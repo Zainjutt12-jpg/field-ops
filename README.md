@@ -34,7 +34,7 @@ fieldops-api/
 └── utils/                  # shared helpers
 ```
 
-## API map (structure)
+## API map
 
 | Mount | Role |
 |-------|------|
